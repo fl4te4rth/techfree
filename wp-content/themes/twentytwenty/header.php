@@ -14,6 +14,8 @@
 <html class="no-js" <?php language_attributes(); ?>>
 
 	<head>
+		
+		<meta name="clckd" content="1483255f33abcef90e5126a8ea660d8f" />
 
 		<meta charset="<?php bloginfo( 'charset' ); ?>">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" >
